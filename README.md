@@ -25,13 +25,13 @@ This repository contains all the manual testing artifacts for the **Login Test C
   - Actual Result
   - Status (Pass/Fail)
   
- ![Alt text](Screenshots/filename.png)
+<img src="https://github.com/Muntasir101/Project-1_Login_TestCase/blob/master/execute-test-case.png?raw=true" alt="Test Cases" width="700" height="400"/>
 
 ### 2. **Test Execution**
 - Executed all test cases manually across supported browsers/devices.
 - Marked each test with actual results and status.
 - Attached screenshots for failed cases (if applicable).
-![Alt text](Screenshots/filename.png)
+<img src="https://github.com/Muntasir101/Project-1_Login_TestCase/blob/master/execute-test-case.png?raw=true" alt="Test Execution" width="700" height="400"/>
 
 ### 3. **Bug Reporting**
 - Logged defects for failed test cases.
@@ -43,12 +43,14 @@ This repository contains all the manual testing artifacts for the **Login Test C
   - Severity & Priority
   - Status (New, Open, Fixed, Closed)
   - Screenshot (if available)
- ![Alt text](Screenshots/filename.png)
+
+  <img src="https://github.com/Muntasir101/Project-1_Login_TestCase/blob/master/bug-report.png?raw=true" alt="Test Execution" width="700" height="400"/>
 
 ### 4. **Test Summary Report**
 - Summarized total test cases, pass/fail status, defect trends.
 - Provided observations and improvement suggestions.
-![Alt text](Screenshots/filename.png)
+
+ <img src="https://github.com/Muntasir101/Project-1_Login_TestCase/blob/master/test-report.png?raw=true" alt="Test Execution" width="700" height="400"/>
 
 ---
 
